@@ -6,5 +6,6 @@ from turtle import *
 # Picture
 
 # Text
-
+write('Пользователю!')
+done()
 # Mark
